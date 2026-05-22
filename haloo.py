@@ -1,5 +1,0 @@
-print("helloworld")
-print("===========")
-print("Muhamad ilham")
-print("241011400921")
-print("===========")
